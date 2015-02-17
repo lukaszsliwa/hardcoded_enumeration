@@ -28,6 +28,7 @@ Gem::Specification.new do |s|
     "VERSION",
     "generators/enumerated/enumerated_generator.rb",
     "generators/enumerated/templates/enumerated.rb",
+    "hardcoded_enumeration.gemspec",
     "init.rb",
     "lib/hardcoded_enumeration.rb",
     "lib/hardcoded_enumeration/active_record_extensions.rb",
