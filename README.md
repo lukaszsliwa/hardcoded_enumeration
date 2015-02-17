@@ -1,1 +1,1 @@
-# hardcoded_enumeration
+Old hardcoded_enumeration rails plugin
